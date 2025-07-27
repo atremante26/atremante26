@@ -1,8 +1,8 @@
 # Hi, I'm Andrew. Nice to meet you! 👋
 
 🎓 CS & Math @ Amherst College '26  
-🏢 Previously - AI/ML Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union
-🔬 Honors Thesis Research on Text-to-SQL
+🏢 Previously - AI/ML Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union  
+🔬 Honors Thesis Research on Text-to-SQL  
 🌐 [andrewtremante.com](https://andrewtremante.com) | [LinkedIn](https://www.linkedin.com/in/andrew-tremante-71253a238/)
 
 ---
@@ -23,7 +23,7 @@ Full-stack personal portfolio website using React, Django, Node, and PostgreSQL,
 
 ---
 
-## 🛠️ Research
+## Research
 
 My senior honors thesis explores how **logical equivalence** can be used to better evaluate SQL outputs from text-to-SQL models.  
 Currently working with [VeriEQL](https://github.com/VeriEQL/VeriEQL) framework to support real-world databases with constraints.
