@@ -26,7 +26,7 @@ Full-stack personal portfolio website using React, Django, Node, and PostgreSQL,
 ## Research
 
 My senior honors thesis explores how **logical equivalence** can be used to better evaluate SQL outputs from text-to-SQL models.  
-Currently working with [VeriEQL]([https://github.com/VeriEQL/VeriEQL](https://github.com/atremante26/VeriEQL)) framework to support real-world databases with constraints.
+Currently working with [VeriEQL](https://github.com/atremante26/VeriEQL) framework to support real-world databases with constraints.
 
 ---
 
