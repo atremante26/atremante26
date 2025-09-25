@@ -11,7 +11,7 @@
 
 🔹 [**MindPulse AI: Real-Time Analytics for Mental Health**](https://github.com/atremante26/Mental_Health_Project)  
 Real-time mental health data platform powered by LLMs and ML models, built to uncover insights and raise awareness around mental health trends.  
-→ Cloud-native data pipeline (Airflow, Snowflake, S3, Great Expectations) + full-stack app (FastAPI, React, Vite) on EKS with Docker and CloudWatch.
+→ Cloud-native data pipeline (Airflow, Snowflake, S3, Great Expectations) + full-stack app (FastAPI, React, Vite) on ECS Fargate with Docker and CloudWatch.
 
 🔹 [**Match Prediction Model**](https://github.com/atremante26/Match_Prediction_Model)  
 Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.  
