@@ -13,13 +13,13 @@
 Real-time mental health data platform powered by LLMs and ML models, built to uncover insights and raise awareness around mental health trends.  
 → Cloud-native data pipeline (Airflow, Snowflake, S3, Great Expectations) + full-stack app (FastAPI, React, Vite) on ECS Fargate with Docker and CloudWatch.
 
+🔹 [**SafetyLens**](https://github.com/atremante26/SafetyLens)  
+Research-driven project exploring explainable AI for content safety detection, comparing classical ML and transformer-based architectures.  
+→ Evaluates logistic regression, single-task transformers, and multi-task transformers on the DICES-350 dataset, with interpretability via SHAP, LIME, and Integrated Gradients to analyze performance-explainability tradeoffs.
+
 🔹 [**Match Prediction Model**](https://github.com/atremante26/Match_Prediction_Model)  
 Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.  
 → 50% return on investment (ROI) in simulated weekly betting performance. 
-
-🔹 [**Personal Website**](https://github.com/atremante26/Personal_Website)  
-Full-stack personal portfolio website using React, Django, Node, and PostgreSQL, hosted on Render and GitHub Pages.  
-→ UI designs and 3D visualizations using Tailwind CSS and Three.js.
 
 ---
 
