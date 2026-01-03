@@ -27,8 +27,7 @@ Developed formal verification methods to evaluate Text-to-SQL systems using logi
 ## 🚀 Featured Projects
 
 ### [**MindPulseAI**](https://github.com/atremante26/MindPulseAI)
-Real-time analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.
-
+Real-time analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.         
 → Engineered serverless pipeline with Airflow on AWS ECS Fargate, Snowflake, and S3, featuring Great Expectations validation and CI/CD via GitHub Actions.  
 → Implemented HDBSCAN clustering, Prophet time-series forecasting, and Gemini-powered explainability delivered through FastAPI backend and React frontend.
 
@@ -45,8 +44,7 @@ Real-time analytics platform tracking population mental health trends with autom
 ---
 
 ### [**SafetyLens**](https://github.com/atremante26/SafetyLens)
-Research project evaluating model architecture impact on hate speech detection across multi-dimensional datasets.
-
+Research project evaluating model architecture impact on hate speech detection across multi-dimensional datasets.    
 → Compared logistic regression, single-task RoBERTa, and multi-task RoBERTa on DICES-350 dataset.  
 → Analyzed explainability differences using LIME, SHAP, and Integrated Gradients with results visualized in interactive web application.
 
@@ -63,8 +61,7 @@ Research project evaluating model architecture impact on hate speech detection a
 ---
 
 ### [**Match Prediction Model**](https://github.com/atremante26/Match_Prediction_Model)
-Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.
-
+Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.        
 → 50% return on investment (ROI) in simulated weekly betting performance on 20+ years of data (2002-2023).
 
 <p align="left">
