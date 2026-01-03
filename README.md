@@ -1,7 +1,6 @@
 # Hi, I'm Andrew. Nice to meet you! 👋
 
-🎓 **CS @ Amherst College '26**  
-💻 **Incoming Data Scientist @ IBM**  
+🎓 **CS @ Amherst College '26**   
 🔬 **Honors Thesis Research on Text-to-SQL Evaluation**      
 🏢 **Previously - Machine Learning Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union**
 
@@ -20,7 +19,7 @@ Developed formal verification methods to evaluate Text-to-SQL systems using logi
 📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)**     
 → Identified false positives in 10 state-of-the-art Text-to-SQL methods on BIRD and Spider 2.0 benchmarks through automated counterexample generation.
 
-🔧 **[VeriEQL Framework](https://github.com/atremante26/VeriEQL)**    
+🔧 **[VeriEQL](https://github.com/atremante26/VeriEQL)**    
 → Open-source SQL equivalence framework using SMT-based formal verification.
 
 ---
