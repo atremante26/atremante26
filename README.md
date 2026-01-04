@@ -18,10 +18,10 @@
 Developed formal verification methods to evaluate Text-to-SQL systems using logical equivalence.
 
 📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)**     
-→ Identified false positives in 10 state-of-the-art Text-to-SQL methods on BIRD and Spider 2.0 benchmarks through automated counterexample generation.
+&nbsp;&nbsp;&nbsp;&nbsp;→ Identified false positives in 10 state-of-the-art Text-to-SQL methods on BIRD and Spider 2.0 benchmarks through automated counterexample generation.
 
 🔧 **[VeriEQL](https://github.com/atremante26/VeriEQL)**    
-→ Open-source SQL equivalence framework using SMT-based formal verification.
+&nbsp;&nbsp;&nbsp;&nbsp;→ Open-source SQL equivalence framework using SMT-based formal verification.
 
 ---
 
@@ -29,9 +29,10 @@ Developed formal verification methods to evaluate Text-to-SQL systems using logi
 
 ### [**MindPulseAI**](https://github.com/atremante26/MindPulseAI)
 Real-time analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.         
-→ Engineered serverless pipeline with Airflow on AWS ECS Fargate, Snowflake, and S3, featuring Great Expectations validation and CI/CD via GitHub Actions.  
-→ Implemented HDBSCAN clustering, Prophet time-series forecasting, and Gemini-powered explainability delivered through FastAPI backend and React frontend.
+&nbsp;&nbsp;&nbsp;&nbsp;→ Engineered serverless pipeline with Airflow on AWS ECS Fargate, Snowflake, and S3, featuring Great Expectations validation and CI/CD via GitHub Actions.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Implemented HDBSCAN clustering, Prophet time-series forecasting, and Gemini-powered explainability delivered through FastAPI backend and React frontend.
 
+#### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35" title="AWS"/>
@@ -46,9 +47,10 @@ Real-time analytics platform tracking population mental health trends with autom
 
 ### [**SafetyLens**](https://github.com/atremante26/SafetyLens)
 Research project evaluating model architecture impact on hate speech detection across multi-dimensional datasets.    
-→ Compared logistic regression, single-task RoBERTa, and multi-task RoBERTa on DICES-350 dataset.  
-→ Analyzed explainability differences using LIME, SHAP, and Integrated Gradients with results visualized in interactive web application.
+&nbsp;&nbsp;&nbsp;&nbsp;→ Compared logistic regression, single-task RoBERTa, and multi-task RoBERTa on DICES-350 dataset.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Analyzed explainability differences using LIME, SHAP, and Integrated Gradients with results visualized in interactive web application.
 
+#### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" title="PyTorch"/>
@@ -63,8 +65,9 @@ Research project evaluating model architecture impact on hate speech detection a
 
 ### [**Match Prediction Model**](https://github.com/atremante26/Match_Prediction_Model)
 Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.        
-→ 50% return on investment (ROI) in simulated weekly betting performance on 20+ years of data (2002-2023).
+&nbsp;&nbsp;&nbsp;&nbsp;→ 50% return on investment (ROI) in simulated weekly betting performance on 20+ years of data (2002-2023).
 
+#### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" title="PyTorch"/>
