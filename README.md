@@ -4,10 +4,11 @@
 🔬 **Honors Thesis Research on Text-to-SQL Evaluation**      
 🏢 **Previously - Machine Learning Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union**
 
-[![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://andrewtremante.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-tremante-71253a238/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EXRKa94AAAAJ&hl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtremante@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/andrew-tremante-71253a238/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrewtremante.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4B8BBE?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EXRKa94AAAAJ&hl)
+
 
 ---
 
