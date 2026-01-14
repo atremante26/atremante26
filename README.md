@@ -1,6 +1,7 @@
 # Hi, I'm Andrew. Nice to meet you! 👋
 
 🎓 **CS @ Amherst College '26**   
+🚀 **Incoming Data Scientist @ IBM**  
 🔬 **Honors Thesis Research on Text-to-SQL Evaluation**      
 🏢 **Previously - Machine Learning Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union**
 
