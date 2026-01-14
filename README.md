@@ -2,7 +2,7 @@
 
 🎓 **CS @ Amherst College '26**   
 🚀 **Incoming Data Scientist @ IBM**  
-🔬 **Honors Thesis Research on Text-to-SQL Evaluation**      
+🔬 **Honors Thesis Research on Text-to-SQL Evaluation | Published at MATH-AI @ NeurIPS 2026**    
 🏢 **Previously - Machine Learning Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtremante@gmail.com)
@@ -39,9 +39,9 @@ Real-time analytics platform tracking population mental health trends with autom
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35" title="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" alt="airflow" width="35" height="35" title="Apache Airflow"/>
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="35" height="35" title="Snowflake"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35" title="FastAPI"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35" title="React"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35" title="FastAPI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
 </p>
 
 ---
@@ -58,6 +58,7 @@ Research project evaluating model architecture impact on hate speech detection a
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35" title="Hugging Face"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35" title="FastAPI"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
 </p>
 
 **[🌐 LIVE DEMO](https://atremante26.github.io/SafetyLens/)**
