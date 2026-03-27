@@ -2,8 +2,8 @@
 
 🎓 **CS @ Amherst College '26**   
 🚀 **Incoming Data Scientist @ IBM**  
-🔬 **Honors Thesis Research on Text-to-SQL Evaluation | Published at MATH-AI @ NeurIPS 2026**    
-🏢 **Previously - Machine Learning Engineer Intern @ TrueData, Data Science Intern @ Philadelphia Union**
+🔬 **Honors Thesis Research on Text-to-SQL Evaluation | Published at ICLR 2026**    
+🏢 **Previously — Machine Learning Engineer Intern @ TrueData | Data Science Intern @ Philadelphia Union**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtremante@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=0&v=2)](https://www.linkedin.com/in/andrew-tremante-71253a238/)
@@ -16,23 +16,42 @@
 ## 🔬 Research
 
 **Text-to-SQL Evaluation with Formal Verification** @ Amherst College, VMware Research by Broadcom  
-Developed formal verification methods to evaluate Text-to-SQL systems using logical equivalence.
+Developing formal verification methods to evaluate Text-to-SQL systems using logical equivalence. Work independently requested by Amazon for evaluation of their production Text-to-SQL quality assurance system.
 
-📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)**     
-&nbsp;&nbsp;&nbsp;&nbsp;→ Identified false positives in 10 state-of-the-art Text-to-SQL methods on BIRD and Spider 2.0 benchmarks through automated counterexample generation.
-
-🔧 **[VeriEQL](https://github.com/atremante26/VeriEQL)**    
-&nbsp;&nbsp;&nbsp;&nbsp;→ Open-source SQL equivalence framework using SMT-based formal verification.
+📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)** — *ICLR 2026*  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Evaluation pipeline that applies bounded equivalence verification to search for differentiating database instances between generated and gold queries.
+ 
+📄 **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334)** — *Under Review*  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Extends the verification framework with an automatic constraint-mining pipeline that combines rule-based specification mining over example databases with LLM validation.
+ 
+🔧 **[SpotIt+ (GitHub)](https://github.com/ai-ar-research/SpotIt-plus)**  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Open-source tool for constraint-augmented SQL equivalence checking.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [**MindPulseAI**](https://github.com/atremante26/MindPulseAI)
-Real-time analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.         
-&nbsp;&nbsp;&nbsp;&nbsp;→ Engineered serverless pipeline with Airflow on AWS ECS Fargate, Snowflake, and S3, featuring Great Expectations validation and CI/CD via GitHub Actions.  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Implemented HDBSCAN clustering, Prophet time-series forecasting, and Gemini-powered explainability delivered through FastAPI backend and React frontend.
+### **[UnifySQL](https://github.com/atremante26/UnifySQL)**
+Open-source, model-agnostic Text-to-SQL infrastructure layer addressing core reliability gaps in enterprise natural language querying systems.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Automatically constructs and maintains semantic layers from database schemas using LLMs, with SQLGlot-based dialect compilation across Snowflake, BigQuery, and PostgreSQL.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Implements clean LLM adapter interfaces for seamless model swaps and a feedback loop that persists analyst corrections, decoupling the model problem from the infrastructure problem.
+ 
+#### Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DATAg1AAZAA0" alt="flask" width="35" height="35" title="Flask"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="35" height="35" title="LangChain"/>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="35" height="35" title="Snowflake"/>
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="35" height="35" title="BigQuery"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
+</p>
 
+### [**MindPulseAI**](https://github.com/atremante26/MindPulseAI)
+Full-stack analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Engineered serverless pipeline with Airflow on AWS ECS Fargate, Snowflake, and S3, featuring Great Expectations validation and CI/CD via GitHub Actions.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Implemented Prophet 30-day forecasting, HDBSCAN clustering, Claude 3.5 Haiku LLM insights, and a content-based recommender system served through a FastAPI backend and React frontend.
+ 
 #### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
@@ -44,13 +63,15 @@ Real-time analytics platform tracking population mental health trends with autom
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
 </p>
 
+**[🌐 LIVE SITE](https://mindpulseai.io/)**
+
 ---
 
 ### [**SafetyLens**](https://github.com/atremante26/SafetyLens)
-Research project evaluating model architecture impact on hate speech detection across multi-dimensional datasets.    
-&nbsp;&nbsp;&nbsp;&nbsp;→ Compared logistic regression, single-task RoBERTa, and multi-task RoBERTa on DICES-350 dataset.  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Analyzed explainability differences using LIME, SHAP, and Integrated Gradients with results visualized in interactive web application.
-
+Research project evaluating model architecture impact on hate speech detection across multi-dimensional datasets.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Compared logistic regression, single-task RoBERTa, and multi-task RoBERTa on DICES-350 dataset, achieving 29% F1 improvement over baseline.  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Analyzed explainability differences using LIME, SHAP, and Integrated Gradients with results visualized in an interactive web application.
+ 
 #### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
@@ -58,10 +79,10 @@ Research project evaluating model architecture impact on hate speech detection a
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35" title="Hugging Face"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35" title="FastAPI"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
 </p>
 
-**[🌐 LIVE DEMO](https://atremante26.github.io/SafetyLens/)**
+**[🌐 LIVE SITE](https://atremante26.github.io/SafetyLens/)**
 
 ---
 
@@ -83,7 +104,7 @@ Convolutional Neural Network (CNN) built using PyTorch to predict professional s
 ---
 
 ## 🛠️ Technologies & Tools
-
+ 
 ### Languages
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
@@ -95,7 +116,7 @@ Convolutional Neural Network (CNN) built using PyTorch to predict professional s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" title="Scala"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
 </p>
-
+ 
 ### AI/ML & Data
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" title="PyTorch"/>
@@ -108,25 +129,22 @@ Convolutional Neural Network (CNN) built using PyTorch to predict professional s
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
 </p>
-
+ 
 ### Cloud & Infrastructure
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" title="AWS"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Azure"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud"/>
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40" title="BigQuery"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" title="Terraform"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" title="Kubernetes"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" title="Redis"/>
 </p>
-
+ 
 ### Development
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" title="Next.js"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40" title="FastAPI"/>
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DATAg1AAZAA0" alt="flask" width="40" height="40" title="Flask"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="Spring Boot"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
 </p>
