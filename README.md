@@ -1,8 +1,8 @@
 # Hi, I'm Andrew. Nice to meet you! 👋
 
-🎓 **CS @ Amherst College '26**   
-🚀 **Incoming Data Scientist @ IBM**  
-🔬 **Honors Thesis Research on Text-to-SQL Evaluation | Published at ICLR 2026**    
+💼 **Data Scientist @ IBM**  
+🎓 **CS @ Amherst College**   
+🔬 **Text-to-SQL Research | ICLR 2026**    
 🏢 **Previously — Machine Learning Engineer Intern @ TrueData | Data Science Intern @ Philadelphia Union**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtremante@gmail.com)
@@ -15,14 +15,17 @@
 
 ## 🔬 Research
 
-**Text-to-SQL Evaluation with Formal Verification** @ Amherst College, VMware Research by Broadcom  
-Developing formal verification methods to evaluate Text-to-SQL systems using logical equivalence. Work independently requested by Amazon for evaluation of their production Text-to-SQL quality assurance system.
+**Natural Language Interfaces to Data Systems** @ Amherst College, VMware Research by Broadcom
+Text-to-SQL research spanning evaluation, semantic understanding, and multilingual settings. My undergraduate honors thesis applied formal verification to Text-to-SQL evaluation. Work independently requested by Amazon for evaluation of their production Text-to-SQL quality assurance system.
 
 📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)** — *ICLR 2026*  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Evaluation pipeline that applies bounded equivalence verification to search for differentiating database instances between generated and gold queries.
+&nbsp;&nbsp;&nbsp;&nbsp;→ Evaluation pipeline that applies bounded equivalence verification to search for differentiating database instances between generated and ground-truth queries.
  
 📄 **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334)** — *Under Review*  
 &nbsp;&nbsp;&nbsp;&nbsp;→ Extends the verification framework with an automatic constraint-mining pipeline that combines rule-based specification mining over example databases with LLM validation.
+
+📄 **Who Can Query a Database? A Survey of Multilingual Text-to-SQL** — *Under Review*    
+&nbsp;&nbsp;&nbsp;&nbsp;→ Comprehensive survey of multilingual Text-to-SQL methods, benchmarks, and evaluation methodologies across typologically diverse languages.
  
 🔧 **[SpotIt+ (GitHub)](https://github.com/ai-ar-research/SpotIt-plus)**  
 &nbsp;&nbsp;&nbsp;&nbsp;→ Open-source tool for constraint-augmented SQL equivalence checking.
@@ -86,23 +89,6 @@ Research project evaluating model architecture impact on hate speech detection a
 
 ---
 
-### [**Match Prediction Model**](https://github.com/atremante26/Match_Prediction_Model)
-Convolutional Neural Network (CNN) built using PyTorch to predict professional soccer matches based on historical betting data.        
-&nbsp;&nbsp;&nbsp;&nbsp;→ 50% return on investment (ROI) in simulated weekly betting performance on 20+ years of data (2002-2023).
-
-#### Tech Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" title="PyTorch"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35" title="scikit-learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35" title="pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35" title="NumPy"/>
-</p>
-
-**[📹 VIDEO DEMO](https://www.youtube.com/watch?v=_78TkQ1djPI)**
-
----
-
 ## 🛠️ Technologies & Tools
  
 ### Languages
@@ -110,11 +96,9 @@ Convolutional Neural Network (CNN) built using PyTorch to predict professional s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" title="SQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" title="R"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" title="Scala"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
 </p>
  
 ### AI/ML & Data
@@ -127,7 +111,6 @@ Convolutional Neural Network (CNN) built using PyTorch to predict professional s
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" alt="airflow" width="40" height="40" title="Apache Airflow"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="pandas"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
 </p>
  
 ### Cloud & Infrastructure
