@@ -15,7 +15,7 @@
 
 ## 🔬 Research
 
-**Natural Language Interfaces to Data Systems** @ Amherst College, VMware Research by Broadcom
+**Natural Language Interfaces to Data Systems** @ Amherst College, VMware Research by Broadcom   
 Text-to-SQL research spanning evaluation, semantic understanding, and multilingual settings. My undergraduate honors thesis applied formal verification to Text-to-SQL evaluation. Work independently requested by Amazon for evaluation of their production Text-to-SQL quality assurance system.
 
 📄 **[SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840)** — *ICLR 2026*  
@@ -49,6 +49,8 @@ Open-source, model-agnostic Text-to-SQL infrastructure layer addressing core rel
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35" title="PostgreSQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
 </p>
+
+---
 
 ### [**MindPulseAI**](https://github.com/atremante26/MindPulseAI)
 Full-stack analytics platform tracking population mental health trends with automated data pipelines and ML-powered insights.  
